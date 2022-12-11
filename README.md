@@ -1,2 +1,25 @@
-# app-dev
-My First Repository
+# Doctor Strange
+**Film Series**
+: Doctor Strange is a 2016 American superhero film based on the Marvel Comics character of the same name. 
+
+> Sypnosis
+
+Dr. Stephen Strange's (Benedict Cumberbatch) life changes after a car accident robs him of the use of his hands. When traditional medicine fails him, he looks for healing, and hope, in a mysterious enclave. He quickly learns that the enclave is at the front line of a battle against unseen dark forces bent on destroying reality. Before long, Strange is forced to choose between his life of fortune and status or leave it all behind to defend the world as the most powerful sorcerer in existence
+
+## Cast
+1. Michael Stuhlbarg as Nicodemus West: A rival surgeon to Strange.
+
+2. Benjamin Bratt as Jonathan Pangborn: A paraplegic who learned from the Ancient One how to heal himself through the mystic arts.
+
+3. Scott Adkins as Lucian: One of Kaecilius' followers.
+
+4. Mads Mikkelsen as Kaecilius: A Master of the Mystic Arts who broke away from the Ancient One. A combination of several antagonists from the comics, Kaecilius was used in the film to drive the introduction and development of bigger villains for the future, including "certain individuals who live in other dimensions". Derrickson compared this dynamic to that of Saruman and Sauron in The Lord of the Rings, giving the film a "huge and fantastical" villain like Sauron, but also having "human relateability" with Kaecilius, like Saruman, for Strange to face throughout the film.
+5. Tilda Swinton as the Ancient One: A Celtic mystic who becomes Strange's mentor. The character is a Tibetan man in the comics, and co-writer C. Robert Cargill said adapting the character as the comics portrayed him would be realizing the major Asian Fu Manchu stereotype while involving the film with the Tibetan sovereignty debate. However, not giving one of few significant Asian roles to an Asian actor would also be received negatively; Cargill compared this situation to the Kobayashi Maru, an unwinnable training exercise from Star Trek. Derrickson wanted to change the character to an Asian woman, but felt an older Asian woman would invoke the Dragon Lady stereotype, while a younger Asian woman would be perceived as exploiting Asian fetish and be a "fanboy's dream girl".
+
+6. Benedict Wong as Wong: A Master of the Mystic Arts, tasked with protecting some of Kamar-Taj's most valuable relics and books. The character is depicted in the comics as Strange's Asian, "tea-making manservant", a racial stereotype that Derrickson did not want in the film,[33][34] and so the character was not included in the film's script. After the non-Asian actress Tilda Swinton was cast as the other significant Asian character from the Doctor Strange comics, the Ancient One—which was also done to avoid the comics' racial stereotypes—Derrickson felt obligated to find a way to include Wong in the film. The character as he ultimately appears is "completely subverted as a character and reworked into something that didn't fall into any of the stereotypes of the comics", which Derrickson was pleased gave an Asian character "a strong presence in the movie".
+
+7. Rachel McAdams as Christine Palmer: An emergency surgeon initially written as a love interest for Strange, but shortly before filming, Derrickson suggested that this trope be subverted by making the two characters lovers as part of their backstory and coming "out the other side of it as friends". McAdams described this dynamic by saying, "The love is between them no matter what stage they're at in the actual relationship." With this change in characterization, producer Kevin Feige described Palmer as a "lynchpin to [Strange's] old life, once he steps into the role of a sorcerer. She is someone he connects with at the beginning, and reconnects with, and helps anchor his humanity."He explained that having this character be a "connection to Strange's life in New York City, in the normal world" after his journey was important to the studio, which is why Palmer was chosen for the character over the more prominent, but more fantastical character Clea.
+
+## Main
+1. Benedict Cumberbatch as Dr. Stephen Strange: A neurosurgeon who, after a car crash that led to a journey of healing, discovers the hidden world of magic and alternate dimensions.Cumberbatch described Strange as arrogant, with the film "about him going from a place where he thinks he knows it all to realizing he knows nothing." He compared the character to the version of Sherlock Holmes that he portrays in Sherlock, calling both characters "intelligent" and having "smatterings of the same colors"
+2. Chiwetel Ejiofor as Karl Mordo: A Master of the Mystic Arts, close to the Ancient One and a mentor to Strange. This version of Mordo is a combination of different characters from the Doctor Strange mythos, and unlike in the comics is not introduced as villainous. Ejiofor noted this, calling Mordo "a very complex character that, really, I don't think can be nailed down either way". Director Scott Derrickson added that the change in character stemmed from casting Ejiofor and conversations the director had with him. Ejiofor described Mordo's relationship with the Ancient One as "long and intense", while noting a "growing respect" between the character and Strange, until "things get complicated".
